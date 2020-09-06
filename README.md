@@ -16,7 +16,7 @@ That puzzle was on the simpler side. With more characters and more sentences, th
 
 ## About AI
 
-The major contribution towards the puzzles were formulating it as propositional logic, then using brute solver to check for predictions. logic.py contains the porpositional logic functions, the puzzle.py contains the puzzles and their logic representaions. The major template was taken from the course cs50.
+The major contribution towards the puzzles were formulating it as propositional logic, then using brute solver to check for predictions. logic.py contains the porpositional logic functions, the puzzle.py contains the puzzles and their logic representaions. The major template was taken from the course cs50. How to use the code, you can update the puzzles and their propositional logic expressions to compute the predictions. 
 
 
 We targeted specific puzzles to solve, the puzzles are the following - 
